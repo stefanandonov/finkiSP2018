@@ -4,7 +4,7 @@
 
 Пример, матрицата:
 
-<div style="width:460px;margin:0 auto;">
+
 $
  \begin{matrix}
 1&2 &3 &4 &5 \\               
@@ -14,11 +14,11 @@ $
     7 &8& 9& 7& 7\\ 
   \end{matrix}
 $
-</div>
+
 
 би се трансформирала во следната матрица:
 
-<div style="width:460px;margin:0 auto;">
+
 $
  \begin{matrix}
 17&13 &13 &10 &5 \\               
@@ -28,4 +28,4 @@ $
     7 &13& 14& 15& 17\\ 
   \end{matrix}
 $
-</div>
+
